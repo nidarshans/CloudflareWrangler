@@ -1,0 +1,1 @@
+~/node-v16.13.0/node ~/node-v16.13.0/deps/npm/bin/npm-cli.js run start
